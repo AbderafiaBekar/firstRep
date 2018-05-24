@@ -1,4 +1,6 @@
 Hello Git ! You're welcome. 
 My second Repo !!!
 
+-- ajout de cette ligne sur la branche Rafia 
+
 This modification after part2 of Marcgg's tuto.
