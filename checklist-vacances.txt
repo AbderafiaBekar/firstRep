@@ -1,2 +1,4 @@
 Hello Git ! You're welcome. 
-Second Repo !!!
+My second Repo !!!
+
+This modification after part2 of Marcgg's tuto.
